@@ -107,6 +107,8 @@ Neural_Networks_classification/
 ### What I learned
 * Learned Neural Networks implementation.
 * Learned why using ReLU is useful.
+* Learned the difference in classification and regression.
+* Learned to use sigmoid or softmax for classification.
 * Learned how neural networks use neurons to predict.
 * Learned how backpropagation effects the outputs mathmetically.
 * Learned how two layer predictions will work.
