@@ -84,6 +84,11 @@ Confusion Matrix: [[73 14]
  [14 16]]
 F1 score: 0.5333333333333333
 ```
+### Visualizations
+
+### confusion matrix
+
+![confusion Matrix](confusion_matrix.png)
 
 ## Folder Structure
 
